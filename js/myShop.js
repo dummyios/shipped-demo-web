@@ -11,9 +11,9 @@ $(window).load(function() {
 });
 
 // Here
-var endpointAccount = "http://production--store--account--e4e520.prd.shipped-cisco.com"
-var endpointCart = "http://production--store--cartbackend--2329ec.prd.shipped-cisco.com"
-var endpointCatalog = "http://production--store--catalogbackend--62e4c9.prd.shipped-cisco.com"
+// var endpointAccount = "http://production--store--account--e4e520.prd.shipped-cisco.com"
+// var endpointCart = "http://production--store--cartbackend--2329ec.prd.shipped-cisco.com"
+// var endpointCatalog = "http://production--store--catalogbackend--62e4c9.prd.shipped-cisco.com"
 
 function init() {
     $("#btnLogin").click(function() {
